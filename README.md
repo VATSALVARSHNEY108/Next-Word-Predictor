@@ -8,7 +8,7 @@ Copy code
 ├── next_word.h5              # Trained LSTM model
 ├── token.pkl                 # Saved tokenizer
 ├── plot.png                  # Model architecture visualization
-├── Next_word_prediction.py                   # Main Python file with full pipeline
+├──main.py                   # Main Python file with full pipeline
 └── README.md                 # Project documentation
 🧪 Features
 LSTM-based language model
